@@ -12,9 +12,8 @@ Segundo paso:
 Agregar al motor mysql la base de datos reto.sql ( el mismo cuentra con el script de creacion y los registros iniciales en la carpera BaseDeDatos)
 
 Tercer paso:
-se puede seguir dos metodos:
-
-Descargar el archivo .war y agregarlo a la carpeta webApps de su servidor Tomcat local.
 
 Descargar el proyecto y ejecutarlo en un IDE Spring Tools con el servidor Tomcat embedido
+
+Se adjunta coleccion de consultas postman en la carpeta consultas
 
