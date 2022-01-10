@@ -9,7 +9,7 @@ Servidor Apache tomcat ( en su defecto usar IDE Spring tools con servidor tomcat
 
 Segundo paso:
 
-Agregar al motor mysql la base de datos reto.sql ( el mismo cuentra con el script de creacion y los registros iniciales)
+Agregar al motor mysql la base de datos reto.sql ( el mismo cuentra con el script de creacion y los registros iniciales en la carpera BaseDeDatos)
 
 Tercer paso:
 se puede seguir dos metodos:
